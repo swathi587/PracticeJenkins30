@@ -14,5 +14,9 @@ public class CreateContact {
 	{
 		System.out.println("Contact again created");
 	}
-	
+	@Test
+	public void contactTest2()
+	{
+		System.out.println("Conatact created");
+	}
 }

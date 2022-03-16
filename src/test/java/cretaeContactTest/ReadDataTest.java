@@ -19,8 +19,5 @@ public void paraTest()
 	
 	
 	
-	
-	
-	
 }
 }
