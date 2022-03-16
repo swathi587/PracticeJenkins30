@@ -12,5 +12,15 @@ public void paraTest()
 	
 /*	String URL = System.getProperty("url");
 	System.out.println(URL);*/
+
+	/*	String USERNAME = System.getProperty("username");
+	System.out.println(USERNAME);*/
+	
+	
+	
+	
+	
+	
+	
 }
 }
